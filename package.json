@@ -1,0 +1,26 @@
+{
+  "name": "aoc2018",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/superoo7/aoc2018.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/superoo7/aoc2018/issues"
+  },
+  "homepage": "https://github.com/superoo7/aoc2018#readme",
+  "dependencies": {
+    "@types/jest": "^23.3.10",
+    "jest": "^23.6.0",
+    "ts-jest": "^23.10.5",
+    "ts-node": "^7.0.1",
+    "typescript": "^3.1.6"
+  }
+}
